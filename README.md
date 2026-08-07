@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jeps369
-- 👀 I’m interested in CyberSecurity analyst
+- 👀 I’m interested in Cyber-Security / IT Role
 - 🌱 I’m currently learning Coursera Google Cybersecurity Analyst 
 - 🤝🏼 I’m looking to collaborate on new projects 
 - 📫 How to reach me Jeps.santi@gmail.com
